@@ -1,2 +1,1 @@
-# daily.github.io
-Something.
+A simple daily.
